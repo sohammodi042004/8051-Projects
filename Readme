@@ -1,0 +1,9 @@
+This repository contains a collection of projects based on the 8051 microcontroller.
+
+    Around 70% of the projects were built and tested on hardware.
+
+    The remaining projects were simulated using Proteus.
+
+    All projects include code and simulation files.
+
+These projects were made during my college time and cover basics of embedded systems like sensors, LCDs, motors, and communication.
